@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Samuel Buzila 👋
+### Electrical and Electronic Engineering Portfolio
 
-<!--
-**smollze/smollze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my portfolio. To protect my work, all my main repos will be private and can be accessed by request.
 
-Here are some ideas to get you started:
+This page functions as a Design History File, here will contain code snippets, documentation and any relevant files
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Toolkit
+
+| Hardware & CAD | Firmware & Systems | Protocols |
+| :--- | :--- | :--- |
+| Autodesk Inventor / Fusion360 / KiCad / LTsplice | C / C++ / Python | I2C / UART / SPIU |
+
+
+
+## Skills:
+
+## Projects:
+### Active Audio Filter
