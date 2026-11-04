@@ -1,6 +1,4 @@
-# Samuel Buzila
-### Electrical and Electronic Engineering Portfolio
-
+# Electrical and Electronic Engineering Portfolio
 Temp (add message)
 
 ---
