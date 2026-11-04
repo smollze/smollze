@@ -1,21 +1,29 @@
-# Hi, I'm Samuel Buzila 👋
+# Samuel Buzila
 ### Electrical and Electronic Engineering Portfolio
 
-Welcome to my portfolio. To protect my work, all my main repos will be private and can be accessed by request.
-
-This page functions as a Design History File, here will contain code snippets, documentation and any relevant files
+Temp (add message)
 
 ---
 
 ## Technical Toolkit
 
-| Hardware & CAD | Firmware & Systems | Protocols |
-| :--- | :--- | :--- |
-| Autodesk Inventor / Fusion360 / KiCad / LTsplice | C / C++ / Python | I2C / UART / SPIU |
-
-
-
-## Skills:
-
+| Hardware & Design | Programming & Firmware | Engineering Software |
+| :--------------------- | :--------------------- | :--------------------- |
+| STM32 Microcontrollers, Sensor Integration, PCB Design & Mechanical Cad | C/C++, Python & UART/I2C/SPI | KiCad, LTsplice, MatLAB & Autodesk Inventor/Fusion360 |
+---
 ## Projects:
-### Active Audio Filter
+<details>
+  <summary><b>Active Audio Filter (Completed)</b></summary>
+  //Image
+  
+  #### Project Overview
+  #### Documentation Links
+</details>
+
+<details>
+  <summary><b>Site Safety Wearable (WIP)</b></summary>
+  //Image
+  
+  #### Project Overview
+  #### Documentation Links
+</details>
