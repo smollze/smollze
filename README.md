@@ -1,5 +1,5 @@
 # Electrical and Electronic Engineering Portfolio
-This repository serves as a dedicated way of displaying my projects, providing an overview without needing access to my main repositories. If you wish to gain access to the full source files or original repositories, please feel free to contact me.
+This repository serves as a dedicated showcase of my projects, providing an overview without needing access to my main repositories. If you wish to gain access to the full source files or original repositories, please feel free to contact me.
 
 ---
 
