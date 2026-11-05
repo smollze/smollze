@@ -12,14 +12,10 @@ This repository serves as a dedicated way of displaying my projects, providing a
 ## Projects:
 <details>
   <summary><b>Active Audio Filter (Completed)</b></summary>
-  Will add soon please contact me if you want the evidence
-  #### Project Overview
-  #### Documentation Links
+  Will add soon please contact me if you would like the evidence.
 </details>
 
 <details>
   <summary><b>Site Safety Wearable (WIP)</b></summary>
   Add once completed.
-  #### Project Overview
-  #### Documentation Links
 </details>
