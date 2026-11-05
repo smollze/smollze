@@ -1,5 +1,5 @@
 # Electrical and Electronic Engineering Portfolio
-Temp (add message)
+This repository serves as a dedicated way of displaying my projects, providing an overview without needing access to my main repositories. If you wish to gain access to the full source files or original repositories, please feel free to contact me.
 
 ---
 
@@ -7,21 +7,19 @@ Temp (add message)
 
 | Hardware & Design | Programming & Firmware | Engineering Software |
 | :--------------------- | :--------------------- | :--------------------- |
-| STM32 Microcontrollers, Sensor Integration, PCB Design & Mechanical Cad | C/C++, Python & UART/I2C/SPI | KiCad, LTsplice, MatLAB & Autodesk Inventor/Fusion360 |
+| STM32 Microcontrollers, Sensor Integration, PCB Design & Mechanical Cad | C/C++, Python & UART/I2C/SPI | KiCad, LTspice, MATLAB & Autodesk Inventor/Fusion360 |
 ---
 ## Projects:
 <details>
   <summary><b>Active Audio Filter (Completed)</b></summary>
-  //Image
-  
+  Will add soon please contact me if you want the evidence
   #### Project Overview
   #### Documentation Links
 </details>
 
 <details>
   <summary><b>Site Safety Wearable (WIP)</b></summary>
-  //Image
-  
+  Add once completed.
   #### Project Overview
   #### Documentation Links
 </details>
